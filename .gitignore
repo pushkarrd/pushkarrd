@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Keep .npy files — they are source of truth for the banner generator
+# DO NOT add *.npy here
+
+# OS
+.DS_Store
+Thumbs.db
