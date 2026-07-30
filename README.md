@@ -40,13 +40,13 @@
 <!-- STATS + TOP LANGS — side by side -->
 <a href="https://github.com/pushkarrd" title="GitHub stats">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=pushkarrd&show_icons=true&hide_rank=true&theme=transparent&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&hide_border=false&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-pushkarrds-projects.vercel.app/api?username=pushkarrd&show_icons=true&hide_rank=true&theme=transparent&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&hide_border=false&include_all_commits=true&count_private=true"
     alt="Pushkar's GitHub Stats"
     width="49%"
   />
 </a>&nbsp;<a href="https://github.com/pushkarrd" title="Top languages">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarrd&layout=compact&theme=transparent&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&text_color=CBD5E1&hide_border=false&langs_count=8"
+    src="https://github-readme-stats-pushkarrds-projects.vercel.app/api/top-langs/?username=pushkarrd&layout=compact&theme=transparent&bg_color=0A101F&border_color=22D3EE&title_color=22D3EE&text_color=CBD5E1&hide_border=false&langs_count=8"
     alt="Top Languages"
     width="49%"
   />
